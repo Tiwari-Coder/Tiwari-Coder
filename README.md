@@ -2,7 +2,7 @@
 - 👀 I’m interested in Website Development.
 - 🌱 I’m currently work on as a Frontend developer.
 - 💞️ Ask me about anything.
-- 📫 How to reach me :Tiwari-Coder
+- 📫 I like making things, I'm a fairly curious person.
 
 <!---
 Tiwari-Coder/Tiwari-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
