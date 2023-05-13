@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tiwari-Coder.
 - 👀 I’m interested in Website Development.
 - 🌱 I’m currently work on as a Frontend developer.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Ask me about anything.
+- 📫 How to reach me :Tiwari-Coder
 
 <!---
 Tiwari-Coder/Tiwari-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
