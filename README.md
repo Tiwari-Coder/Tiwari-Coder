@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiwari-Coder.
 - 👀 I’m interested in Website Development.
-- 🌱 I’m currently work on as a Frontend developer.
+- 🌱 I’m currently work on as a PHP developer.
 - 💞️ Ask me about anything.
 - 📫 I like making things, I'm a fairly curious person.
 
